@@ -5,7 +5,7 @@
 <div align="center">
   <img src="./preview.jpg" alt="Preview" width="539,5" height="372">
 
-  <h3 align="center">Drum Kit</h3>
+  <h3 align="center">Simon Game</h3>
 
   <p align="center">
     The Simon Game to practise JavaScript!
