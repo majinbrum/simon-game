@@ -90,7 +90,7 @@ To get a local copy up and running follow these simple example steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/majinbrum/drum-kit.git
+   git clone https://github.com/majinbrum/simon-game.git
    ```
 2. Change git remote url to avoid accidental pushes to base project
    ```sh
