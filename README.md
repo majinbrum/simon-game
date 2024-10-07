@@ -92,12 +92,7 @@ To get a local copy up and running follow these simple example steps.
    ```sh
    git clone https://github.com/majinbrum/simon-game.git
    ```
-2. Change git remote url to avoid accidental pushes to base project
-   ```sh
-   git remote set-url origin github_username/repo_name
-   git remote -v # confirm the changes
-   ```
-3. Open the `index.html` file and play the demo!
+2. Open the `index.html` file and play the demo!
 
 - The game starts when any key is pressed.
 - The user's input is compared with the game's pattern in real-time.
